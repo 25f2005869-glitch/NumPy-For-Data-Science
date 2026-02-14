@@ -10,3 +10,14 @@ Topics Covered:
 - Mini Projects
 
 Goal: Build strong foundation for Data Science & ML
+## Tools Used
+- Python
+- NumPy
+
+## Learning Level
+Beginner → Intermediate
+
+## Practice Type
+- Concept Codes
+- Exercises
+- Mini Projects
