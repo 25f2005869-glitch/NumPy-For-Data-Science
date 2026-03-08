@@ -34,41 +34,41 @@ This file contains complete NumPy practice from basics to distributions in a sin
 
 Daily Practice Files
 
-day_39_numpy_intro.py
+day_01_numpy_intro.py
 
-day_40_numpy_array_indexing.py
+day_02_numpy_array_indexing.py
 
-day_41_numpy_array_slicing.py
+day_03_numpy_array_slicing.py
 
-day_42_numpy_basics_practice.py
+day_04_numpy_basics_practice.py
 
-day_43_numpy_copy_view.py
+day_05_numpy_copy_view.py
 
-day_44_numpy_reshape_flatten.py
+day_06_numpy_reshape_flatten.py
 
-day_45_numpy_iteration.py
+day_07_numpy_iteration.py
 
-day_46_numpy_joining_stacking.py
+day_08_numpy_joining_stacking.py
 
-day_47_numpy_splitting.py
+day_09_numpy_splitting.py
 
-day_48_numpy_searching.py
+day_10_numpy_searching.py
 
-day_49_numpy_sorting_filtering.py
+day_11_numpy_sorting_filtering.py
 
-day_50_numpy_random.py
+day_12_numpy_random.py
 
-day_51_numpy_random_distribution.py
+day_13_numpy_random_distribution.py
 
-day_52_numpy_permutation_shuffle.py
+day_14_numpy_permutation_shuffle.py
 
-day_53_numpy_normal_binomial_distribution.py
+day_15_numpy_normal_binomial_distribution.py
 
-day_54_numpy_distribution_visualization.py
+day_16_numpy_distribution_visualization.py
 
-day_55_numpy_uniform_logistic_distribution.py
+day_17_numpy_uniform_logistic_distribution.py
 
-day_56_numpy_multinomial_exponential_distribution.py
+day_18_numpy_multinomial_exponential_distribution.py
 
 These files represent step-by-step learning and practice of NumPy concepts.
 
