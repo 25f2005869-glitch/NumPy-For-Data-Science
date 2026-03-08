@@ -68,6 +68,8 @@ day_54_numpy_distribution_visualization.py
 
 day_55_numpy_uniform_logistic_distribution.py
 
+day_56_numpy_multinomial_exponential_distribution.py
+
 These files represent step-by-step learning and practice of NumPy concepts.
 
 ---
