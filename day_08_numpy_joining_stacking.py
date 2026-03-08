@@ -45,3 +45,4 @@ sharad = np.array([1,2,3])
 sharad1 = np.array([4,5,6])
 sharad2 = np.dstack((sharad, sharad1))
 print(sharad2)
+
