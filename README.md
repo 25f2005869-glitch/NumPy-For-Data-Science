@@ -35,21 +35,37 @@ This file contains complete NumPy practice from basics to distributions in a sin
 Daily Practice Files
 
 day_39_numpy_intro.py
+
 day_40_numpy_array_indexing.py
+
 day_41_numpy_array_slicing.py
+
 day_42_numpy_basics_practice.py
+
 day_43_numpy_copy_view.py
+
 day_44_numpy_reshape_flatten.py
+
 day_45_numpy_iteration.py
+
 day_46_numpy_joining_stacking.py
+
 day_47_numpy_splitting.py
+
 day_48_numpy_searching.py
+
 day_49_numpy_sorting_filtering.py
+
 day_50_numpy_random.py
+
 day_51_numpy_random_distribution.py
+
 day_52_numpy_permutation_shuffle.py
+
 day_53_numpy_normal_binomial_distribution.py
+
 day_54_numpy_distribution_visualization.py
+
 day_55_numpy_uniform_logistic_distribution.py
 
 These files represent step-by-step learning and practice of NumPy concepts.
