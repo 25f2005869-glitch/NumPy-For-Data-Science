@@ -70,9 +70,10 @@ day_17_numpy_uniform_logistic_distribution.py
 
 day_18_numpy_multinomial_exponential_distribution.py
 
+File: "projects/matrix_calculator_numpy.py"
+
 These files represent step-by-step learning and practice of NumPy concepts.
 
-File: "projects/matrix_calculator_numpy.py"
 
 ---
 
@@ -88,7 +89,7 @@ A simple matrix calculator built using NumPy that performs:
 
 File: "projects/matrix_calculator_numpy.py"
 
-
+---
 🛠 Tools Used
 
 • Python
