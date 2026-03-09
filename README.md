@@ -72,7 +72,22 @@ day_18_numpy_multinomial_exponential_distribution.py
 
 These files represent step-by-step learning and practice of NumPy concepts.
 
+File: "projects/matrix_calculator_numpy.py"
+
 ---
+
+NumPy Mini Projects
+
+1. Matrix Calculator
+
+A simple matrix calculator built using NumPy that performs:
+
+- Matrix Addition
+- Matrix Subtraction
+- Matrix Multiplication
+
+File: "projects/matrix_calculator_numpy.py"
+
 
 🛠 Tools Used
 
