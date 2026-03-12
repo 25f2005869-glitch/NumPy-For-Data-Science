@@ -70,6 +70,12 @@ day_17_numpy_uniform_logistic_distribution.py
 
 day_18_numpy_multinomial_exponential_distribution.py
 
+day_19_numpy_chisquare_rayleigh_distribution.py
+
+day_20_numpy_pareto_zipf_distribution.py
+
+day_21_numpy_ufunc_vectorization.py
+
 File: "projects/matrix_calculator_numpy.py"
 
 These files represent step-by-step learning and practice of NumPy concepts.
