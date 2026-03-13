@@ -76,6 +76,8 @@ day_20_numpy_pareto_zipf_distribution.py
 
 day_21_numpy_ufunc_vectorization.py
 
+day_22_numpy_create_ufunc_frompyfunc.py
+
 File: "projects/matrix_calculator_numpy.py"
 
 These files represent step-by-step learning and practice of NumPy concepts.
