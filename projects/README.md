@@ -72,7 +72,7 @@ This project helps in understanding:
 👨‍💻 Author
 
 Saloni Tiwari
-IIT Madras Online Degree Program Student
+IIT Madras Bs Degree Program Student
 
 ---
 
